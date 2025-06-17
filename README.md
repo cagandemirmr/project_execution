@@ -156,3 +156,24 @@ Project Status u yazdıktan sonraki adımlar:
 ![image](https://github.com/user-attachments/assets/cf23264a-643a-4271-b151-43b476180ca8)
 
 
+## Managing Changes, risk and Dependencies
+
+![image](https://github.com/user-attachments/assets/88e557eb-2969-4b4e-9ca8-5730c680d950)
+
+![image](https://github.com/user-attachments/assets/c4804161-c04f-4862-a52c-49181b15ca2a)
+
+![image](https://github.com/user-attachments/assets/42c146f1-20db-42b0-981d-e822721e003d)
+
+
+Değişim Türleri
+
+![image](https://github.com/user-attachments/assets/b14015de-4ac0-4b9e-ba97-3c7c21cbb345)
+
+
+Yapılan değişikliğin neden niçin yapıldığını anlamak için bir değişiklik formu doldururuz.
+
+![image](https://github.com/user-attachments/assets/c1fb7deb-7824-40ef-a147-5c7f88370bea)
+
+
+
+
