@@ -103,13 +103,13 @@ Tavsiye:
 ![image](https://github.com/user-attachments/assets/ba42e976-43c8-4052-9e8d-b62196d0bae3)
 
 
-Project status reports
+### Project status reports
 In this lesson, you are learning to identify and compare various types of tracking methods. This reading will cover project status reports and how you can use them to track and communicate common project elements in a snapshot.
 
 Key components of a project status report
 A project status report gives an overview of all of the project’s common elements and summarizes them in a snapshot. It is an efficient communication tool to convey the latest status in one place for the team and stakeholders.
 
-### Most status reports contain the following components:
+**Most status reports contain the following components:**
 
 Project name: The project name should be specific to the purpose of the project so that the overall goal of the project can be understood at-a-glance. 
 
@@ -141,3 +141,18 @@ Keep everyone, including key stakeholders, informed.
 Request more resources and support (if needed).
 
 Create structure and transparency by recording the project status in a centralized place.
+
+Project Status u yazdıktan sonraki adımlar:
+
+![image](https://github.com/user-attachments/assets/ab97cd9f-b45b-4f8f-908b-3c182e2076b2)
+
+
+![image](https://github.com/user-attachments/assets/9d5ef21a-4428-44d3-b198-34c51f4ed0dd)
+
+
+![image](https://github.com/user-attachments/assets/b4f80147-be40-4674-8a41-b34a2646cc24)
+
+
+![image](https://github.com/user-attachments/assets/cf23264a-643a-4271-b151-43b476180ca8)
+
+
