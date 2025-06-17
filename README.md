@@ -25,4 +25,6 @@ Projenin takibi şu nedenlerden ötürü önemlidir:
 
 ![image](https://github.com/user-attachments/assets/88521c82-0d54-4251-9051-a577056889f0)
 
+Peki neyi takip edeceğiz: 
+![image](https://github.com/user-attachments/assets/de74d2e2-eaf0-40fc-a8ce-2d768e1616e8)
 
