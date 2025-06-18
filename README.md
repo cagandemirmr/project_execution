@@ -268,5 +268,23 @@ By consulting an existing mitigation plan and weighing two options for moving fo
 
 As you manage projects of your own, issues will come up again and again. When you do the heavy lifting of risk management planning before starting work on the project, you will be better equipped to respond to problems quickly.
 
+**Assessment of Exemplar**
 
+Compare the exemplar to your completed ROAM analysis. Review your work using each of the criteria in the exemplar. What did you do well? Where can you improve? Use your answers to these questions to guide you as you continue to progress through the course. 
+
+Let’s review each issue in the ROAM analysis: 
+
+**Issue 1:** In response to the potting issue, you contacted the warehouse to evaluate and improve the potting process. After two weeks with no additional problems, you consider the matter resolved. 
+
+**Issue 2:** Your team handled the customer complaints by listening to their issues and offering to send them free plants. Most of the customers were satisfied with this solution. This issue is mitigated because you reduced its impact. 
+
+**Issue 3:** You assign your IT Specialist to fix the issue with the customer service software. This issue is owned because the IT Specialist has not yet taken action, but there is a plan in place to take care of the issue.
+
+**Issue 4:** Some customers have called to cancel their subscriptions. Your team offered them subscription promotions, but cannot get them to reconsider. Since a few cancellations will not have a major impact, you consider this issue accepted.
+
+**Issue 5:** To solve the delivery driver problem, you ask the HR Specialist to schedule a hiring day to hire and onboard more drivers. This issue is owned by the HR Specialist because they have not yet hired the drivers.
+
+**Issue 6:** Your team reassessed delivery routes, which increased efficiency and reduced the number of late deliveries. This risk is mitigated because you have lessened its impact.
+
+**Issue 7:** Your Financial Analyst reassessed spending and found more money to offset the unexpected costs, so the issue is resolved.
 
