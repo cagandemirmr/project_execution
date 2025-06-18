@@ -174,6 +174,33 @@ Yapılan değişikliğin neden niçin yapıldığını anlamak için bir değiş
 
 ![image](https://github.com/user-attachments/assets/c1fb7deb-7824-40ef-a147-5c7f88370bea)
 
+Dependencies: 
+
+![image](https://github.com/user-attachments/assets/eb431527-f283-4d78-9208-4bb73688c798)
+
+Internal dependencies:
+
+![image](https://github.com/user-attachments/assets/2eb0dd47-7b24-49a3-baa3-9173ae69c24c)
+
+External dependencies:
+
+![image](https://github.com/user-attachments/assets/bc04a9e9-e255-4dce-845c-9ea3d6fe88dd)
+
+Mandatory dependency:
+
+![image](https://github.com/user-attachments/assets/32b40508-10ef-4135-9ca9-c3ef7aa05b89)
 
 
+Disceration dependency: Tam miktarında tam ayarında işi yapmak
 
+![image](https://github.com/user-attachments/assets/6a033af4-ca74-47bd-8540-45f0f50c7796)
+
+Dependency Management:
+
+![image](https://github.com/user-attachments/assets/6f8de60a-cea2-4373-aa3e-8d7ed6ce85ff)
+
+Bunu yapabilmek için şunlara ihtiyaç var:
+
+![image](https://github.com/user-attachments/assets/abcfb0ba-7300-4216-9319-2d6073e8c0a7)
+
+Proper identication ve record dependencies yaptıktan sonra risk register yaparız.
