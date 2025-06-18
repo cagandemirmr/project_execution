@@ -288,3 +288,6 @@ Let’s review each issue in the ROAM analysis:
 
 **Issue 7:** Your Financial Analyst reassessed spending and found more money to offset the unexpected costs, so the issue is resolved.
 
+## Communication Issues to Stakeholders
+
+
