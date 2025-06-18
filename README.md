@@ -204,3 +204,18 @@ Bunu yapabilmek için şunlara ihtiyaç var:
 ![image](https://github.com/user-attachments/assets/abcfb0ba-7300-4216-9319-2d6073e8c0a7)
 
 Proper identication ve record dependencies yaptıktan sonra risk register yaparız. Ve sonra kontroller başlar.
+
+Risk Management:
+
+![image](https://github.com/user-attachments/assets/c6679cb1-a503-4a65-a175-7471b6736d33)
+
+Risk i oluşturan en önemli sıkıntılar scope creep ve dependency problemleridir.
+
+![image](https://github.com/user-attachments/assets/2301eff6-3ffd-4d59-aea4-41e1ce82970f)
+
+![image](https://github.com/user-attachments/assets/cfb8e26a-fce7-4cd4-966f-b032bb750d0a)
+
+Risk analizi yapılırken brainstorming yapmak faydalıdır ve risk management tan sonra risk register yaparız.
+
+if/then çalışması yapılabilir. Eğer böyle yaparsak böyle olur gibi gibi.
+
