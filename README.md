@@ -424,4 +424,35 @@ Make a request
 
 Escalation is a useful skill for solving problems quickly, and sending a strong escalation email that applies these best practices can help get your team the help it needs.
 
+# Modül 2
 
+## Understanding Quality Management
+
+![image](https://github.com/user-attachments/assets/65d0f7e4-7a94-4f90-8dd4-bab477541e5c)
+
+![image](https://github.com/user-attachments/assets/c72103e0-2530-430f-9c3f-0468b82852ea)
+
+Quality Management
+
+![image](https://github.com/user-attachments/assets/e2df8162-0df0-4249-94d2-217620330bd5)
+
+
+Quality Standards
+
+![image](https://github.com/user-attachments/assets/9bd77822-d25e-4f25-9c79-47b44ed371af)
+
+
+Quality Planning
+
+![image](https://github.com/user-attachments/assets/57665f9d-7b41-4597-91cc-361b66ffe094)
+
+
+![image](https://github.com/user-attachments/assets/9d992e2a-c8e3-49a1-855d-6f24dfb38561)
+
+
+![image](https://github.com/user-attachments/assets/fb67f3aa-0ce8-466e-8f0a-a78b02972f9c)
+
+
+![image](https://github.com/user-attachments/assets/23321087-2c98-48a4-be11-2d6e812f8c24)
+
+![image](https://github.com/user-attachments/assets/40d9d93b-9df3-4688-929c-6e2c339fb74a)
