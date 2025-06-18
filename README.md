@@ -203,4 +203,4 @@ Bunu yapabilmek için şunlara ihtiyaç var:
 
 ![image](https://github.com/user-attachments/assets/abcfb0ba-7300-4216-9319-2d6073e8c0a7)
 
-Proper identication ve record dependencies yaptıktan sonra risk register yaparız.
+Proper identication ve record dependencies yaptıktan sonra risk register yaparız. Ve sonra kontroller başlar.
