@@ -609,3 +609,16 @@ m kontrol edilir.
 
 ![image](https://github.com/user-attachments/assets/8e1bf312-d470-48df-b43f-b02a9bc88f22)
 
+Projects:
+
+![image](https://github.com/user-attachments/assets/e2392e89-4a7c-42df-87cc-5d26ff4c338c)
+
+Program:
+
+![image](https://github.com/user-attachments/assets/04bfe0ab-f173-4f1c-b240-a03919a50cb1)
+
+Portfolio:
+
+![image](https://github.com/user-attachments/assets/29d31933-07ed-45fc-8a07-909c64ec4398)
+
+Bir Proje sürekli yapılıyorsa buna program denir. Ve eğer birbiriyle bağımlı ya da bağımsızaynı şirkette programlar varsa buna da portföy denir. Bir projedeki çözümler diğer projelere de uygulanabilir.
