@@ -566,3 +566,46 @@ Users provide feedback after performing UAT. This feedback might include positiv
 
 **Key takeaway**
 User acceptance testing is a powerful tool to ensure that your project outcome is desirable and successful. Be sure to leave time in the schedule for proper testing and issue resolution. 
+
+![image](https://github.com/user-attachments/assets/44c7dafa-2aad-42d8-9db6-c327b9b38b34)
+
+Sponsorun gönlünü hoş tutacaksın ROI yi nasıl arttırırım diye düşüneceksin.
+
+## Pursuing Continious Improvement
+
+![image](https://github.com/user-attachments/assets/65d409f1-282f-4be6-9f08-7b8cf87cc4fe)
+
+Tasklere şu işlem yaparak gelişimi arttırabiliriz.
+
+![image](https://github.com/user-attachments/assets/8f2365c4-35b2-4271-8247-9d2a7f52d3f3)
+
+Process improvement
+
+![image](https://github.com/user-attachments/assets/c2e6de95-3222-4b5e-b7dd-29c5bdd730cd)
+
+Control
+
+![image](https://github.com/user-attachments/assets/09f57f8a-5b2d-42ae-b3aa-3632bc55d7da)
+
+Process improvement şu şekilde ilerliyor. Önce sorun tespit ediliyor sonrasında buna yönelik bir çözüm önerisi getiriliyor ve 
+Buna bağlı olarak test yapılıyor.
+
+![image](https://github.com/user-attachments/assets/7fc4805e-d7f9-45c1-98cb-c68363612a6d)
+
+Bunun için iki yöntem var.
+
+![image](https://github.com/user-attachments/assets/9410b6d7-c383-4196-bc4e-64c20c43c9a0)
+
+Bu işlemde önce problem belirlenir. Buna yönelik veri toplanır sonrasında analiz edip buna yönelik çözümler aranır.Ve çöz
+m kontrol edilir.
+
+![image](https://github.com/user-attachments/assets/e3df55b1-a835-4c81-8a22-c395e95dcc5c)
+
+![image](https://github.com/user-attachments/assets/d31cd9f5-ce80-42fe-81a7-66e095d4cb41)
+
+![image](https://github.com/user-attachments/assets/8c96fbeb-6bd5-4675-ba97-0e514a5870f8)
+
+![image](https://github.com/user-attachments/assets/0a9c727f-1b4d-4d5d-91cf-b5bbc0327368)
+
+![image](https://github.com/user-attachments/assets/8e1bf312-d470-48df-b43f-b02a9bc88f22)
+
