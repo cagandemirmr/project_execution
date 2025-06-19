@@ -655,3 +655,28 @@ Bu işlemin başarılı olması için:
 
 Ve insanlar yaptığı yorumların dinlendiğinden ve önemsendiğinden emin olmak isterler yoksa bir daha bu işleme katılmazlar.
 
+Retrospektif e niyet ettikten sonra:
+
+![image](https://github.com/user-attachments/assets/f100e1a8-1664-4280-bb38-5e2627e398d8)
+
+![image](https://github.com/user-attachments/assets/ef0cd630-ec18-4c58-9a1d-01e537783f91)
+
+![image](https://github.com/user-attachments/assets/e8c1a93d-2978-48ee-a433-93baab89817d)
+
+Tavsiye:
+
+![image](https://github.com/user-attachments/assets/86a01180-aae4-43b7-b3af-ed911b910059)
+
+![image](https://github.com/user-attachments/assets/f771eefd-084f-4182-ab90-d031fb0f197b)
+
+![image](https://github.com/user-attachments/assets/b1df6360-dfac-4e3d-ac1f-ae8630e70a24)
+
+![image](https://github.com/user-attachments/assets/510f5812-a466-4227-9274-d05964a6ee2c)
+
+![image](https://github.com/user-attachments/assets/d66b3c9f-b0b1-46a9-bbf9-83a1752b2ce2)
+
+![image](https://github.com/user-attachments/assets/cdbf2e49-73c6-4be3-972d-02a4cf165bce)
+
+![image](https://github.com/user-attachments/assets/c54aa086-f146-40b3-8b08-49bbab93a350)
+
+![image](https://github.com/user-attachments/assets/bb9730b5-7f75-43da-a486-83aa8b46984a)
