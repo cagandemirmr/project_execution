@@ -622,3 +622,7 @@ Portfolio:
 ![image](https://github.com/user-attachments/assets/29d31933-07ed-45fc-8a07-909c64ec4398)
 
 Bir Proje sürekli yapılıyorsa buna program denir. Ve eğer birbiriyle bağımlı ya da bağımsızaynı şirkette programlar varsa buna da portföy denir. Bir projedeki çözümler diğer projelere de uygulanabilir.
+
+## Using Resrosprectives for project success
+
+
