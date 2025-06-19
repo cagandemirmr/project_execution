@@ -833,3 +833,15 @@ https://www.pmi.org.in/conference2017/pdfs/papers-pdfs/theme-3-rapidly-changing-
 https://www.workfront.com/project-management/metrics
 
 https://www.ringcentral.com/us/en/blog/productivity-metrics/
+
+## Priaorityzing and analyzing data
+
+![image](https://github.com/user-attachments/assets/16ba8b42-2ca5-434a-bb25-c625ec194d0b)
+
+Bunu yapmak için bir kaç yol vardır:
+
+![image](https://github.com/user-attachments/assets/060ff203-30a6-425a-b42c-0aa0891e72e4)
+
+![image](https://github.com/user-attachments/assets/27f081f2-b25d-456f-a428-6f8f1210fedd)
+
+
