@@ -878,5 +878,104 @@ And finally, you are ready to Act! In the final stage of your data analysis, the
 
 Conducting a data analysis is an essential process for understanding a business’ needs and challenges and determining effective solutions. These six foundational steps—ask, prepare, process, analyze, share, and act—will help set you up for success! 
 
+## Presenting and Sharing Data
 
+![image](https://github.com/user-attachments/assets/4057c81d-f637-48c0-ab45-cc2816113259)
+
+![image](https://github.com/user-attachments/assets/0cdc2213-6668-4d25-84e2-6c3f0afe25c8)
+
+Audience:
+
+![image](https://github.com/user-attachments/assets/4ff8fa72-1072-44df-ac8b-fed7f1c23091)
+
+Görseller:
+
+![image](https://github.com/user-attachments/assets/f0c9d583-dabc-48ac-8c7f-3fdd5b06d81d)
+
+Yorumla:
+
+Hikaye anlat neyi yapmak istiyordun ne oldu neyle karşılaştın gibi gibi.
+
+Feedback:
+
+Bu konuyla ilgili feedback topla
+
+Görselleştirme
+
+Burndown chart, ne kadar sürede ne kadar iş yapılmış onu gösterir.
+
+![image](https://github.com/user-attachments/assets/2f19200c-e266-4829-a1ba-f39a2fa98caf)
+
+Infographics, tek sayfada özet yapılması işlemidir.
+
+![image](https://github.com/user-attachments/assets/26b335ac-c0b9-4c9e-8dc7-03642af86df4)
+
+### Different ways to visualize data
+Earlier, we discussed best practices for collecting and analyzing data. When it is time to present your data to your audience, you don’t just want to tell them about your findings and what they mean, you want to show them. Data visualization helps us organize data and turn it into information that is clear and easy for our audience to digest.
+
+In this reading, we will go over a variety of charts and graphs you can use to visually represent data. 
+
+**Visualizing your data**
+Before translating your data into a chart or graph, you should be clear on what you want to show your audience. Figure out what data you want to use and why. You might want to inform your audience about a new trend or a valuable piece of information, or show relationships between data sets. Or maybe you need to compare values, understand the composition of something, or analyze trends and behaviors over set periods of time. 
+
+The type of data you have, and the information you want to show or understand, will help you figure out the right data visualization to use. Let's go over some scenarios and discuss which charts and graphs would be best for each.  
+
+**Show relationships**
+A scatter plot, sometimes referred to as a scatter chart or scatter graph, uses dots to represent values for two different variables. The position of each dot on the horizontal and vertical axis indicates values for an individual data point. Scatter plots will sometimes have a line drawn across its center. This line is known as the trend line and highlights the direction the points are trending towards. 
+
+Scatter plots show the relationship between data sets, and can help us understand the impact of one factor on another. For example, the scatterplot below shows the relationship between the life expectancy of people living in a country and how happy those people are. The first variable, the happiness score, is reflected on the vertical axis —also called the y-axis. The second variable, life expectancy, is on the horizontal axis —also called the x-axis. By looking at this scatterplot, we can tell that as a person’s happiness score increases, so does their life expectancy. 
+
+Graph of happiness on the y-axis and health on the x-axis with a line trend and dots scattered in the top right
+Scatter plot best practices: 
+Start the y-axis at 0 to represent data accurately.
+
+**Comparing values**
+Bar graphs use size contrast to compare two or more values. In the example below, the time of day is compared to someone’s level of motivation throughout the whole work day. By comparing this data, we can tell that this person’s motivation is low at the beginning of the work day, and gets higher and higher by the end. Bar graphs are also a great way to clarify trends and identify patterns. 
+
+Bar chart signaling motivation throughout the day with bars (motivation) increasing as time increases
+Bar graph best practices:
+Use consistent colors throughout the chart
+
+Use accent colors to highlight important data points or changes over time
+
+Use horizontal labels so it is easier to read 
+
+**Demonstrating composition** 
+Now let’s check out another visualization you will probably recognize—the pie chart. Pie charts show us the composition of something. In other words, how much each part of something makes up the whole. The pie chart below shows us all the activities that make up someone’s day. Half of it is spent working, which is shown by the amount of space that the blue section takes up. From a quick glance at this pie chart, you can easily tell which activities make up a good chunk of the day and which ones take up less time.
+
+Pie chart of daily activities. Work showing 45% of the chart; eat, commute and watch TV show 8% and sleep is 29%
+Pie chart best practices: 
+Avoid including too many categories so it is easy to compare slices
+
+Make sure that the slice values add up to 100%
+
+Order slices according to their size
+
+**Analyzing trends and behaviors** 
+Tracking trends can help us understand shifts or changes in our data. Line graphs are a great tool for visually showing change over time, but they can be paired with other factors, too. In the line graph below, we are using two lines to compare the popularity of cats and dogs over a period of time. Because the graph is using two different line colors, we can instantly tell that dogs are more popular than cats. We will talk more about using colors and patterns to make visualizations more accessible to audiences later, too. Even as the lines move up and down, there is a general trend upwards, and the line for dogs always stays higher than the line for cats.
+
+Line chart of popularity on the y-xis and time on the x-axis. Two lines - one for dogs and one for cats trend up
+Line graph best practices:
+To avoid clutter, don't show more than four categories.
+
+Organize highly variable data at the top of the chart to make it easy to read
+
+Sunum Teknikleri:
+
+![image](https://github.com/user-attachments/assets/7eea9fcb-1bf6-4d91-a860-2fa90a2a63a8)
+
+![image](https://github.com/user-attachments/assets/70d6e54c-0eb9-4c58-85f4-3179b4627272)
+
+
+Hedef kitleniz eğer 5sn de görseli anlamıyorsa bu anlama gelir: 
+
+![image](https://github.com/user-attachments/assets/f333b031-9046-4ba9-9c4a-2fa3f63c9f8d)
+
+![image](https://github.com/user-attachments/assets/ad36f0c6-fefb-4c53-b1ff-1f19ed047108)
+
+
+![image](https://github.com/user-attachments/assets/68a25e51-29bb-47f9-99ce-e630b3bb275e)
+
+
+Belirli yerlerde sesini yavaşlat
 
