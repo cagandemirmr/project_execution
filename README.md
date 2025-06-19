@@ -625,4 +625,33 @@ Bir Proje sürekli yapılıyorsa buna program denir. Ve eğer birbiriyle bağım
 
 ## Using Resrosprectives for project success
 
+Benim yaptığım Şabat işlemine benzer bir işlem.
+
+![image](https://github.com/user-attachments/assets/638129ae-d400-4854-9a24-72f2000b1989)
+
+Genellikle bu işlem proje bittikten sonra veya proje tamamlandıktan sonra yapılır.
+
+![image](https://github.com/user-attachments/assets/f36617a9-4c1b-4beb-b207-289d6830b42c)
+
+![image](https://github.com/user-attachments/assets/895b7535-9068-4a9a-9de0-74597a911323)
+
+Bu işlemin yapılmasındaki neden şudur:
+
+![image](https://github.com/user-attachments/assets/f9b6b271-0c25-4ad1-820f-4ddbd620bdde)
+
+![image](https://github.com/user-attachments/assets/557a6cc7-08e5-40a6-9f47-c89203dd10ae)
+
+Retrospektivi kısa notlar, postitler ya da e maille bile yapabilirsin.
+
+Ve samimi bir ortam üretmek önemlidir böylece daha iyi bir şekilde gelişiriz. 
+
+![image](https://github.com/user-attachments/assets/270b12e2-85d1-402b-a741-40cb97c269b8)
+
+Bakış açısı değiştirmek karşı taraf bakış açısından bakabilmektir. Biz diline geçmek ise birini suçlamayı engeller.
+
+Bu işlemin başarılı olması için:
+
+![image](https://github.com/user-attachments/assets/b777e151-93cb-4871-b8cc-a17b6b9676d9)
+
+Ve insanlar yaptığı yorumların dinlendiğinden ve önemsendiğinden emin olmak isterler yoksa bir daha bu işleme katılmazlar.
 
