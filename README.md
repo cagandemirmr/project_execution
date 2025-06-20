@@ -1270,5 +1270,34 @@ Like so much of project management, ethical leadership takes diligence and pract
 
 ![image](https://github.com/user-attachments/assets/834608df-92a0-48c0-8f34-e79f4f681990)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9196af6e-a325-4641-88eb-01a306578c38)
+
+İnsanları etkilemenin yani manipüle etmenin 4 koşulu var.
+
+![image](https://github.com/user-attachments/assets/423a123f-7c2e-4c76-beee-70b47e6abbf8)
+
+İlk adımda:
+
+Seni dinleyenler neden seni dinlemeli
+
+![image](https://github.com/user-attachments/assets/1e4ff715-b140-4523-8ec4-c1b19ad8241b)
+
+Güvenilirlikte 2 nedenle gelir:
+
+![image](https://github.com/user-attachments/assets/69fb0ea9-fb7c-47df-8c2f-6a90f74cf227)
+
+İkinci adımda insanların nasıl fayda sağlayacağını belirleriz.
+
+![image](https://github.com/user-attachments/assets/98e8211c-0bf2-4d70-b861-32a2280cb792)
+
+Üçüncü adımda ikna etmek için çalışmaları gösterebilirim. Burada hikaye anlatıcılığı önemlidir.
+
+Son adımda fikrimle olan duygusal bağımı gösteririm.
+
+![image](https://github.com/user-attachments/assets/821f6fba-6173-4b65-addd-900dde83db7f)
+
+Yaygın yapılan hatalar:
+
+![image](https://github.com/user-attachments/assets/4f2bd8ff-bced-49ef-ae78-5908d8911ff0)
+
 
