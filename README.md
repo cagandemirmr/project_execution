@@ -1049,3 +1049,26 @@ If appropriate, send a follow up email with summary notes, action items, and tim
 Debrief with your manager or key audience members on what they heard from the presentation.  Ask them what went well and what could have gone better.
 
 Review next steps.
+
+# Modül 3
+
+## Cultuvating Effective Teams
+
+Tanıtım:
+
+![image](https://github.com/user-attachments/assets/5b11aae1-6b4b-449b-8672-63fde2abaa8e)
+
+Team:
+
+![image](https://github.com/user-attachments/assets/5719b009-74a6-4aeb-8528-312d9e915088)
+
+Work Groups: 
+
+![image](https://github.com/user-attachments/assets/c0226661-f280-4db7-9d20-1fc620ca72a2)
+
+Çalışma grubunda herkes kendinden bağımsız bir şekilde çözüm sunar.
+
+![image](https://github.com/user-attachments/assets/32277de3-3b7b-4e68-9105-079895ce3f4a)
+
+![image](https://github.com/user-attachments/assets/ffd961f2-7978-4284-966f-9c6c395cf157)
+
