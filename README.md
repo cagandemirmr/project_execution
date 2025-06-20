@@ -1301,3 +1301,62 @@ Yaygın yapılan hatalar:
 ![image](https://github.com/user-attachments/assets/4f2bd8ff-bced-49ef-ae78-5908d8911ff0)
 
 
+İnsanları etkilemek için insanın iki güce ihtiyacı vardır:
+
+![image](https://github.com/user-attachments/assets/47891abb-7037-4e10-b241-bd858a6531cb)
+
+Organizasyonel güç:
+
+![image](https://github.com/user-attachments/assets/323f45c8-757b-4a22-9c9f-2b09f6ff4e8f)
+
+Senin rolün:
+
+![image](https://github.com/user-attachments/assets/0abd59fe-4b6a-4529-af82-be9bb9c9cc35)
+
+Information a sahip olarak güç elde edebilirsin.
+
+![image](https://github.com/user-attachments/assets/a1d44873-e6ca-4837-892d-8b78b0f289fb)
+
+Ancak herkes in herşeyi beklenemez bu nedenle networkten bir şeyler alınabilir.
+
+![image](https://github.com/user-attachments/assets/1662b2ea-602e-4078-88c6-036a77568661)
+
+Reputation:
+
+![image](https://github.com/user-attachments/assets/b21d60e7-7327-427a-9592-106d0856d11b)
+
+Kişisel Güç Kaynakları da vardır bunlar:
+
+![image](https://github.com/user-attachments/assets/489ee28e-51d2-4c2d-85ca-ca851b7cee4a)
+
+Knowledge:
+
+![image](https://github.com/user-attachments/assets/c920329d-3824-461a-8ae3-3526f81152f6)
+
+Expertiveness:
+
+![image](https://github.com/user-attachments/assets/f06c2a9e-f121-4473-bacc-537224861367)
+
+Storytelling ve insanlarla bağ kurma yeteneği insanları etkilemekte çok işime yarayacak yöntemlerdir.
+
+Mazi:
+
+![image](https://github.com/user-attachments/assets/08cddd4d-08f1-4918-80da-301de1fd036d)
+
+Karakter:
+
+![image](https://github.com/user-attachments/assets/64b969c4-8b12-42b0-b033-9df45ef9c237)
+
+Kendi süper gücünü bulman sana ışık göstericaktir.
+
+![image](https://github.com/user-attachments/assets/c8409371-a9cd-48b1-9cab-8527aefdfb42)
+
+Tavsiyeler:
+
+![image](https://github.com/user-attachments/assets/fa9ad00e-1fa7-4d2f-a38a-1894b7ceddba)
+
+Birini etkilemek için karşındaki kişinin istediği değeri bilmek gerekir.
+
+![image](https://github.com/user-attachments/assets/194428bf-0c17-49c0-b0b2-8af54f65c7f2)
+
+Kendin heyecanlanmıyorsan başkaları da heyecanlanmıyacaktıur.
