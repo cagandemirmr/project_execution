@@ -1146,3 +1146,16 @@ Managing the expectations of your stakeholder while looping in relevant teammate
 
 **Key takeaway**
 Providing air cover for your team takes practice. It requires a careful balance of the needs of your stakeholders and the needs of your project team. As you become more experienced in leading projects, you will develop a stronger sense of how to manage nuanced situations like these and provide the air cover your team needs to do their best work. 
+
+Tavsiye:
+
+![image](https://github.com/user-attachments/assets/acaad9f1-7772-4f29-89dd-8133d9751b71)
+
+
+Takım oluşturmak için öğeler:
+
+![image](https://github.com/user-attachments/assets/ef630909-c13c-4c38-95b4-b3ea7d01557b)
+
+![image](https://github.com/user-attachments/assets/8d520fb4-2d6d-4794-9ce3-a8786cc5ab5b)
+
+
