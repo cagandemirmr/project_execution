@@ -1158,4 +1158,12 @@ Takım oluşturmak için öğeler:
 
 ![image](https://github.com/user-attachments/assets/8d520fb4-2d6d-4794-9ce3-a8786cc5ab5b)
 
+![image](https://github.com/user-attachments/assets/190600d7-b1d6-4116-91e8-e2456aa58d83)
 
+![image](https://github.com/user-attachments/assets/63102e02-5959-49bb-aebe-054378cf0082)
+
+![image](https://github.com/user-attachments/assets/d0d21dea-60a8-4863-bf0c-5bdd4748f40f)
+
+![image](https://github.com/user-attachments/assets/cbb5f592-5de1-4ebc-a4af-3df4bc12d152)
+
+![Uploading image.png…]()
