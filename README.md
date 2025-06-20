@@ -1166,4 +1166,109 @@ Takım oluşturmak için öğeler:
 
 ![image](https://github.com/user-attachments/assets/cbb5f592-5de1-4ebc-a4af-3df4bc12d152)
 
+![image](https://github.com/user-attachments/assets/b7aadf71-17be-4ad7-bb91-f55e036ae17f)
+
+Senin yapmaktan hoşlanmadığın ve sana yük olan bir işi bunu yapmayı seven birine delege edebilirsin. Böylece zamandan tasarruf sağlarsın ve güven oluşturursun.
+
+![image](https://github.com/user-attachments/assets/f6b8c932-ab9a-4237-8e3d-1f550a8cd014)
+
+![image](https://github.com/user-attachments/assets/cdd34c90-863b-46bf-84cc-c5ed8e762097)
+
+Yöntem olarak takımda bir kaç kişinin moralini arttırmak için onlara bir kaç küçük iş delege ederim veya farklı bir iş veririm.
+
+Etik ve kapsayıcı liderlik:
+
+![image](https://github.com/user-attachments/assets/f9aa3ee6-0824-4546-bbe4-4d3e9fda50fc)
+
+Etik Liderlik:
+
+![image](https://github.com/user-attachments/assets/99f37c71-84e4-4773-b3c7-7eeb12049a2b)
+
+Bunu yapmak için şunlar yapılabilir:
+
+![image](https://github.com/user-attachments/assets/1d136926-2bd0-4219-ad43-0ddc9d44c798)
+
+![image](https://github.com/user-attachments/assets/58b76527-058c-4ab1-9027-90d9688e3e0c)
+
+![image](https://github.com/user-attachments/assets/fee49729-8169-4a1e-8653-65c43d0125a1)
+
+![image](https://github.com/user-attachments/assets/5ce9f209-c9c5-4762-867c-5b359a8eb732)
+
+![image](https://github.com/user-attachments/assets/b55cfd21-5c07-4609-ba5f-8a992954c1c8)
+
+![image](https://github.com/user-attachments/assets/82821d70-65bb-42bd-b7e8-9a133144b2bc)
+
+![image](https://github.com/user-attachments/assets/91e809de-ea63-4f0d-94e7-545c3244a7d4)
+
+![image](https://github.com/user-attachments/assets/30cbf6a0-6eb2-474b-95ed-cb718bb2b747)
+
+![image](https://github.com/user-attachments/assets/b973c562-449e-4519-867c-0c212ac0e3c8)
+
+![image](https://github.com/user-attachments/assets/9ad1792e-022f-48e4-a087-e3e490334b7c)
+
+### A framework for ethical decision-making
+Ethical leadership is a form of leadership that promotes and values honesty, justice, respect, community, and integrity. As the leader of a project team, you will be expected to help your team succeed by leading with ethics. Building respect and trust with the teams you work with—from individuals to external partners to project stakeholders—begins with practicing ethical conduct. 
+
+In this reading, you’ll gain an understanding of a common framework for ethical decision-making that can help you ensure your actions align with the ethical standards of your organization.
+
+**Ethics within your organization**
+Ethics can be defined as the principles of conduct governing an individual or a group. However, there is no single, universally-accepted grouping of ethical standards—these definitions differ based on the culture and community at your company. In the working world, ethical standards may differ based on profession, industry, and organization. Usually, an organization will have its own code of conduct which specifies the standards to which it holds its employees accountable. 
+
+Here at Google, our code of conduct makes clear the expectations that we have for our employees and board members. It is possible that the organizations you will join throughout your career will have codes of conduct, too.  
+
+Part of the challenge of leading with ethics is ensuring that your actions align with the ethical standards of your community, both within your organization and beyond it. In your role as a project manager, a clear framework for ethical decision-making can help guide you to make positive decisions throughout your project.
+
+A common framework for ethical decision-making The Markkula Center for Applied Ethics at Santa Clara University
+ developed the following framework as a helpful guide for ethical decision-making. https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/ 
+
+Recognize an ethical issue, get the facts, evaluate alternative actions, make a decision and test it, act and reflect
+
+**Recognize an ethical issue**
+
+According to this framework, you can begin to question the ethics of an issue by asking yourself questions about the nature of the issue. Could your decision negatively impact another person or group of people? Does the issue go beyond what is legal or efficient? From there, you can proceed onto fact gathering.
+
+**Example:** A vendor you have worked with in the past sends you a generous holiday gift shortly before you are about to select a vendor for a particular task in your project. If you accept the gift, would others be negatively impacted? To determine the answer to this question, get more facts.
+
+**Get the facts**
+Decide what you should do about the issue, and seek answers as needed. Consult with the right people to consider all of the options available to you.
+
+**Example:** Continuing with the example above, you should check to see if your company has ethics guidelines regarding accepting gifts from external parties. If not, consult with your HR representative about the matter.
+
+**Evaluate alternative actions**
+You can evaluate alternative actions by asking yourself the following questions:
+
+“Which option will produce the most good and do the least harm?”
+
+“Which option best respects the rights of all who have a stake?” 
+
+“Which option treats people equally or proportionally?”
+
+“Which option best serves the community as a whole, not just some members?”
+
+“Which option leads me to act as the sort of person I want to be?”
+
+Note that your answers to these questions are subjective, and you may want to elicit the opinion of others before deciding on an alternative action.
+
+**Example:** In the case of the vendor gift example, the answer to the question “Which option treats people equally or proportionally?” might be “decline the gift,” given that accepting it might influence your decision about who to award the contract to.
+
+**Make a decision and test it**
+Once you have chosen an option, test it by imagining the reaction to your choice from a person whose opinion you value. 
+
+**Example:** Once you have decided to decline the gift, discuss your decision with your manager, HR representative, or a trusted colleague.
+
+**Act and reflect on the outcome**
+Consider how to carry out your decision with thoughtfulness and care, and after you act, consider the results of your decision.
+
+**Example:** Respectfully decline the vendor’s gift, noting your reason (for example, your company’s ethical guidelines state that employees are not permitted to accept gifts valued at more than $20 from vendors or contractors).
+
+**Key takeaway**
+A framework like this one can help you feel better-equipped to make ethical decisions regarding your project and team, which is a central component of ethical leadership.
+
+Like so much of project management, ethical leadership takes diligence and practice, and it is crucial to build this skill. As you become more comfortable leading project teams, you will strengthen your ability to make decisions that you can feel good about. Gaining trust and respect from the people you work with can make it easier to influence without authority. If those around you trust your decision-making, they may be more likely to try to help you achieve project goals, even if you aren’t their direct manager. 
+
+## Element of Influencing
+
+![image](https://github.com/user-attachments/assets/834608df-92a0-48c0-8f34-e79f4f681990)
+
 ![Uploading image.png…]()
+
