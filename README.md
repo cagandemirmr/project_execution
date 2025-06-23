@@ -1740,6 +1740,51 @@ Proje Yönetiminde yapılan Toplantılar:
 
 ![image](https://github.com/user-attachments/assets/c55d4244-5192-4432-81e5-fa5b999581d9)
 
+Kick off meetings:
 ![image](https://github.com/user-attachments/assets/f7ad0353-bce8-4749-ab39-eac40165fbaa)
+
+Status meetings:
+![image](https://github.com/user-attachments/assets/3653f2cb-147b-44ee-b76d-f61e3cd3fdd3)
+
+Status meeting de Tasklerde:
+En acil task nedir? Kaç tanesi yapıldı bekleyen kaç tane daha task var.
+
+2.si schedule status e bakılır
+Programın gerisinde miyiz ilerisindemiyiz.Ve bunların nedeni nedir?
+
+3.konu budget status
+Aynı şekilde harcama durumu nedir?
+
+Sonrasında da başımıza gelebilecek sorunları listeleriz.
+
+![image](https://github.com/user-attachments/assets/13e4a032-6359-47ec-9208-34a4c9c31a0f)
+
+Action items burada listemizde yapılması gereken önceliklerdir.
+
+Bu meetinglerin ne sıklıkta yapılacağı bunlara bağlıdır.
+
+![image](https://github.com/user-attachments/assets/26a82c53-f5a5-43a9-9b91-0787cbcc7c14)
+
+Diğer toplantı türü de stakeholder meeting dir.Bu meeting de amaç katılım ve destek almaktır.Zorlukları bulun ve düzenleme yapın.
+
+Bu toplantıda öncelikle sunuma 3-5 dakikalık proje sunumuyla başlayın
+
+![image](https://github.com/user-attachments/assets/b17aeb8c-c446-4e44-8d91-6f1bea2368e6)
+
+![image](https://github.com/user-attachments/assets/7d7af160-a852-4916-bab3-dafdcc8d09c1)
+
+Bu toplantıların genel amacı sponsor ve ağır toplardan feedback almaktır.
+
+Sonraki meeting de de neler işe yaradı neler işe yaramadı onun değerlendirmesini yaparız.
+
+![image](https://github.com/user-attachments/assets/8f794792-318c-43d9-9e07-1f13255003ad)
+
+Bu işlem sayesinde neler öğrendiğimizi ve neleri değiştirmemiz gerektiğini öğrenmiş oluruz.
+
+# Modül 6
+
+## Understanding Project Closure
+
+![image](https://github.com/user-attachments/assets/79ee24d3-a919-4387-8447-8feef3b9b090)
 
 
