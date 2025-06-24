@@ -1941,6 +1941,17 @@ Engage: Ask for audience participation through questions, surveys, or quizzes.
 **Key takeaways**
 As a project manager, impact reporting is a great opportunity to demonstrate the impact of your project and the value you bring to your organization. By highlighting key performance areas, using metrics to showcase results, and preparing an effective presentation, you can impress your stakeholders and convince them of your project’s success.
 
+proje resporpectives lerin faydaları:
+
+![image](https://github.com/user-attachments/assets/8f804e91-208a-448c-8b8f-0bc2a993066e)
+
+Tavsiye: ![image](https://github.com/user-attachments/assets/d8ea257d-773a-4f44-833c-1f019d82b4c5)
+
+Projenin sonunda proje yöneticisinin yazması gereken rapor vardır.Bu raporun özellikleri:
+
+![image](https://github.com/user-attachments/assets/5f3a7ad9-a52c-4716-a6df-ae811c38a6be)
+
+Bu raporda olabildiğince detaya girmen gerekiyor çünkü bunu başka bir PM in okuması için yazıyorsun.
 
 
 
