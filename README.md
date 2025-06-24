@@ -1953,6 +1953,15 @@ Projenin sonunda proje yöneticisinin yazması gereken rapor vardır.Bu raporun 
 
 Bu raporda olabildiğince detaya girmen gerekiyor çünkü bunu başka bir PM in okuması için yazıyorsun.
 
+Kapama Aşamaları:
 
+![image](https://github.com/user-attachments/assets/52e28231-1c05-4145-a9f2-b43fb0439169)
 
+![image](https://github.com/user-attachments/assets/28c6f6a1-b9a4-48a8-853e-33e87eb5a4d2)
+
+![image](https://github.com/user-attachments/assets/4f17ded0-ada9-4fe6-9dba-709ef25f7ae4)
+
+![image](https://github.com/user-attachments/assets/0cc30b64-21dd-4dfd-b8c8-1a53d287e56a)
+
+![image](https://github.com/user-attachments/assets/be36b831-6230-44c4-9797-b594b20747a9)
 
